@@ -4,7 +4,7 @@
 - 🦥 Write less, do more
 
 <!--
-**akbaruddin/akbaruddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**muhdanees/muhdanees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
